@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterisgemmaeadc01vett_0330.png"; bbox 0 0 2535 3862; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 567 1201 2286 1373">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 567 1201 2286 1373">
+     <span class='ocr_line' id='line_1_1' title="bbox 567 1201 2286 1273; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 567 1201 669 1273; x_wconf 81' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_2' title='bbox 738 1208 1155 1271; x_wconf 80' lang='lat' dir='ltr'>HONOREM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1239 1202 1817 1264; x_wconf 77' lang='lat' dir='ltr'><strong>TRANSIERVNT</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1880 1201 2286 1268; x_wconf 70' lang='lat' dir='ltr'>TRIVMPHI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 680 1308 2031 1373; baseline -0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 680 1317 925 1373; x_wconf 80' lang='lat' dir='ltr'>ETIAM</span> <span class='ocrx_word' id='word_1_6' title='bbox 983 1310 1566 1371; x_wconf 82' lang='lat' dir='ltr'>INSTRVMENTA</span> <span class='ocrx_word' id='word_1_7' title='bbox 1620 1308 2031 1371; x_wconf 74' lang='lat' dir='ltr'><strong>svppmcn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 725 1492 2290 1575">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 725 1492 2290 1575">
+     <span class='ocr_line' id='line_1_3' title="bbox 725 1492 2290 1575; baseline -0.005 -20"><span class='ocrx_word' id='word_1_8' title='bbox 725 1506 782 1558; x_wconf 77' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_9' title='bbox 809 1504 906 1559; x_wconf 79' lang='lat' dir='ltr'>Leo</span> <span class='ocrx_word' id='word_1_10' title='bbox 925 1503 1031 1557; x_wconf 90' lang='grc' dir='ltr'>ΡΡ.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1049 1502 1303 1558; x_wconf 71' lang='lat' dir='ltr'><em>Sermone</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1320 1497 1382 1556; x_wconf 76' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_13' title='bbox 1402 1494 1603 1575; x_wconf 59' lang='lat' dir='ltr'>Natalzj</span> <span class='ocrx_word' id='word_1_14' title='bbox 1622 1497 1678 1552; x_wconf 73' lang='lat'>5,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1693 1494 1988 1571; x_wconf 57' lang='lat' dir='ltr'><em>Laurentii</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 2003 1492 2290 1565; x_wconf 70' lang='lat' dir='ltr'><em>Martym‘s.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
